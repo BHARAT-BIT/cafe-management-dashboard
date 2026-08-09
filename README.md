@@ -4,7 +4,7 @@ A role-based admin dashboard for managing a cafe's inventory, customer
 complaints, and feedback — built as a mini-project exploring dashboard UI/UX
 patterns with a modern React stack.
 
-🔗 **Live Demo:** cafe-management-dashboard-beta.vercel.app
+🔗 **Live Demo:** https://cafe-management-dashboard-beta.vercel.app/
 
 ## Features
 
