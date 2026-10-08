@@ -16,7 +16,7 @@ patterns with a modern React stack.
 - **Customer care** — tabbed view of customer complaints (status + priority
   badges) and feedback (star ratings)
 - Clean, responsive sidebar layout using shadcn/ui components
-
+- Seamless experience with orders and inventory management. 
 ## Tech stack
 
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `shadcn/ui` (Radix
